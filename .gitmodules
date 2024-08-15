@@ -1,0 +1,3 @@
+[submodule "godofland"]
+	path = godofland
+	url = https://github.com/godofland/googleclone
